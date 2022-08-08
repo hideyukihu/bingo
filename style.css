@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-style: 16px;
+}
+
+.container {
+  width: 322px;
+  margin: 0 auto;
+}
+
+td, th {
+  width: 60px;
+  height: 45px;
+}
